@@ -1,0 +1,6 @@
+E:\ThreadDemo\ThreadDemo\ThreadDemo1\bin\Debug\ThreadDemo1.exe.config
+E:\ThreadDemo\ThreadDemo\ThreadDemo1\bin\Debug\ThreadDemo1.exe
+E:\ThreadDemo\ThreadDemo\ThreadDemo1\bin\Debug\ThreadDemo1.pdb
+E:\ThreadDemo\ThreadDemo\ThreadDemo1\obj\Debug\ThreadDemo1.exe
+E:\ThreadDemo\ThreadDemo\ThreadDemo1\obj\Debug\ThreadDemo1.pdb
+E:\ThreadDemo\ThreadDemo\ThreadDemo1\obj\Debug\ThreadDemo1.csprojResolveAssemblyReference.cache

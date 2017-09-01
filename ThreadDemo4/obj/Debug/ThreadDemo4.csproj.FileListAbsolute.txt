@@ -1,0 +1,5 @@
+E:\ThreadDemo\ThreadDemo\ThreadDemo4\bin\Debug\ThreadDemo4.exe.config
+E:\ThreadDemo\ThreadDemo\ThreadDemo4\bin\Debug\ThreadDemo4.exe
+E:\ThreadDemo\ThreadDemo\ThreadDemo4\bin\Debug\ThreadDemo4.pdb
+E:\ThreadDemo\ThreadDemo\ThreadDemo4\obj\Debug\ThreadDemo4.exe
+E:\ThreadDemo\ThreadDemo\ThreadDemo4\obj\Debug\ThreadDemo4.pdb
